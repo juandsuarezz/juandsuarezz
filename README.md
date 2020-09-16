@@ -1,4 +1,4 @@
-<div align="center"><img src="https://github.com/juandsuarezz/juandsuarezz/raw/master/Banner.gif" width="960" height="540" />
+<div align="center"><img src="https://github.com/juandsuarezz/juandsuarezz/raw/master/Banner.gif" width="576" height="324" />
   
 ### Hi there. Welcome to my profile 👋
 **Full Stack Software Developer Student in Holberton School**
