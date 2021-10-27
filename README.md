@@ -5,16 +5,16 @@
 <br/>
 </div>
 
-<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
-    <div style="display: inline-block;">
-        <img width="450" height="324" img align="left" alt="Juan David's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandsuarezz&theme=radical&hide=glsl,python=true&title_color=2EC7FE&icon_color=2EC7FE&text_color=FFFFFF&bg_color=000000" class="responsive" />
-    </div>
-    <br/>
-    <div style="display: inline-block;">
-        <img width="350" img align="center" alt="Juan David's TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandsuarezz&theme=radical&hide=glsl,python=true&title_color=2EC7FE&icon_color=2EC7FE&text_color=FFFFFF&bg_color=000000" class="responsive"/>
-    </div>
-</div>
-<br/>
+
+  <a href="https://github.com/juandsuarezz"> <img  width="450" height="324" img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=juandsuarezz&theme=radical&hide=glsl,python=true&title_color=2EC7FE&icon_color=2EC7FE&text_color=FFFFFF&bg_color=000000" /> 
+</a>
+
+   <br/>
+  <img align='center'   width="350" src="https://github-readme-stats.vercel.app/api?username=juandsuarezz&show_icons=true&title_color=2EC7FE&icon_c\olor=7C00DD&text_color=FFFFFF&bg_color=000000"></div>
+  <div style="display: inline-block;">
+  <a href="https://github.com/juandsuarezz">
+</a>
+ 
 
 <div align="center">
   <h3 align="center">Contact me</h3> 
